@@ -2,7 +2,7 @@
 # C++ Basic Projects
  -> C++ basic student info system  
  
- -> basic use with (list , classes , conditions , loops , functions, pointers ) 
+ -> basic use with (list , classes , conditions , loops , functions, pointers , OOP) 
  
- -> Pls develop to I learn more 
+ 
 
